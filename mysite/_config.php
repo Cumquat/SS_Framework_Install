@@ -6,4 +6,4 @@ $project = 'mysite';
 global $database;
 $database = '';
 
-require_once('conf/ConfigureFromEnv.php');
+//require_once('conf/ConfigureFromEnv.php');
