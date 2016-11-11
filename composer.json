@@ -1,7 +1,6 @@
 {
 	"name": "cumquat/ss_framework_install",
 	"description": "SilverStripe Framework Installer",
-    "version": "1.0.0",
 	"require": {
 		"php": ">=5.5.0",
 		"silverstripe/framework": "3.4.1",
