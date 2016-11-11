@@ -1,0 +1,25 @@
+{
+	"name": "cumquat/ss_framework_install",
+	"description": "SilverStripe Framework Installer",
+	"require": {
+		"php": ">=5.5.0",
+		"silverstripe/framework": "4.0.x-dev",
+		"silverstripe/reports": "4.0.x-dev",
+		"silverstripe/siteconfig": "4.0.x-dev",
+		"silverstripe-themes/simple": "~3.2.0",
+		"silverstripe/asset-admin": "1.0.x-dev"
+	},
+	"require-dev": {
+		"phpunit/PHPUnit": "~4.8"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "4.0.x-dev"
+		}
+	},
+	"config": {
+		"process-timeout": 600
+	},
+	"prefer-stable": true,
+	"minimum-stability": "dev"
+}
