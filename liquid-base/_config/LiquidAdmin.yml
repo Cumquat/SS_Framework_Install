@@ -1,0 +1,6 @@
+---
+Name: LiquidAdmin
+---
+LeftAndMain:
+  extra_requirements_css:
+    - liquid-base/css/liquidadmin.css

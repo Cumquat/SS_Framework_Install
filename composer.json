@@ -3,8 +3,7 @@
 	"description": "SilverStripe Framework Installer",
 	"require": {
 		"php": ">=5.5.0",
-		"silverstripe/framework": "3.4.1",
-		"silverstripe/siteconfig": "3.4.1"
+		"silverstripe/framework": "3.4.1"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"

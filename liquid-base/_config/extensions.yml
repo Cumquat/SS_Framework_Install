@@ -1,0 +1,7 @@
+---
+Name: LiquidBase_Extensions
+---
+Controller:
+  extensions:
+    - LiquidConfig_Extension
+    - LiquidBase_Extension
