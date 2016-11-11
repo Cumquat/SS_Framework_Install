@@ -11,7 +11,9 @@
 		"phpunit/PHPUnit": "~3.7@stable"
 	},
 	"extra": {
-		
+		"branch-alias": {
+			"3.4.1": "3.4.1"
+		}
 	},
 	"config": {
 		"process-timeout": 600
